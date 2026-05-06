@@ -1,0 +1,31 @@
+# Arduino build outputs
+build/
+*.bin
+*.hex
+*.elf
+*.map
+*.eep
+
+# Local IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Large generated/project artifacts that should not live in this code repo
+*.zip
+*.7z
+*.rar
+*.doc
+*.docx
+*.pdf
+*.SLDPRT
+*.SLDASM
+*.STEP
+*.STL
+*.DWG
